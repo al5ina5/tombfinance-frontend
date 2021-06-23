@@ -13,3 +13,5 @@ const WalletCard = ({ icon, onConnect, title }) => (
 );
 
 export default WalletCard;
+
+// :)
